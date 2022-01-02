@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hi hello how are you
 hi the file is now updated please check this one
+=======
+hi hello how are you hope so you are fine
+>>>>>>> 332e41d81201cd2b411053f3f5441603b6c6a8b9
